@@ -18,4 +18,4 @@
 <p>How to correctly structure an HTML page</p>
 
 <h2>Sitemap of the project</h2>
-<img src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/4/4dec2ba9d84a0a55355b1c1e2de4c57854a2d35a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230304%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230304T030737Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1b1c4657e8d778dc249ff3993afdd2c1b6bece92dec6e67e52baf6ec17f15ada">
+<img src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/4/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230304%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230304T030737Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=01cc0f7a016e995eaf69402b492c023e04ff4d311920b297dd6d459bce2bea86"
