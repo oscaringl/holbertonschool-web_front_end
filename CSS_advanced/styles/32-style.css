@@ -337,6 +337,7 @@ background: var(--color-black);
     left: -0.1rem;
     right: -0.1rem;
     z-index: 1;
+    transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
 .card-work:hover .card-inner {
@@ -368,6 +369,15 @@ background: var(--color-black);
 
 .card-work:hover .card-title {
     opacity: 1;
+}
+
+.card-work:hover .card-image {
+    transform: scale(1.2);
+    transition: var(--transition-duration) var(--transition-cubic-bezier);
+}
+
+.card-work:hover .card-outer {
+    transform: scale(0.95);
 }
 
 .section-hero {
