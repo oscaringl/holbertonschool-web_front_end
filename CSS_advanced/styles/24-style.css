@@ -220,7 +220,7 @@ background: var(--color-black);
     fill: var(--text-color);
 }
 
-card-services .card-title {
+.card-services .card-title {
     margin: 0;
 }
 
